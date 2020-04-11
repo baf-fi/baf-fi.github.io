@@ -1,7 +1,4 @@
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
+```
                                                               ://////.                              
                                                              -oooooo/                               
                                                             .oooooo+`                               
@@ -45,7 +42,4 @@ shhhhhhhhhhhhhhhhhhhy.                    .oooooo+`                           -h
      ````                      `/oooooo-                                                   ````     
                                :oooooo:                                                             
                               `-------                                                              
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
+```
