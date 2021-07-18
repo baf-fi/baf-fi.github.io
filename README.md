@@ -1,45 +1,11 @@
-```
-(WIP) - WORK IN PROGRESS                                      ://////.                              
-                                                             -oooooo/                               
-                                                            .oooooo+`                               
-     ./so+/-.                                              `+oooooo.                   .-/+os/.     
-      `-yhhhys/.                                           /oooooo:                 ./syhhhy-`      
-        .hhhhhhhs-                                        -oooooo/                -shhhhhhh.        
-         +hhhhhhhho.                                     .oooooo+`              .ohhhhhhhh+         
-         /hhhhhhhhhy-                                   `+oooooo.              .yhhhhhhhhh/         
-         +hhhhhhhhhhy.                                  /oooooo:              .yhhhhhhhhhh+         
-        .hhhhhhhhhhhho`                                -oooooo/               ohhhhhhhhhhhh.        
-       .shhhhhhhhhhhhh-                               .oooooo+`              -hhhhhhhhhhhhhs.       
-     `:yhhhhhhhhhhhhhh/                              `+oooooo.               /hhhhhhhhhhhhhhy:`     
-    -shhhhhhhhhhhhhhhho                              /oooooo:                +hhhhhhhhhhhhhhhhs-    
-  `+hhhhhhhhhhhhhhhhhh+                             -oooooo/                 +hhhhhhhhhhhhhhhhhh+`  
- .shhhhhhhhhhhhhhhhhhh:                            .oooooo+`                 -hhhhhhhhhhhhhhhhhhhs. 
-`yhhhhhhhhhhhhhhhhhhhy`                           `+oooooo.                  `yhhhhhhhhhhhhhhhhhhhy`
-+hhhhhhhhhhhhhhhhhhhh:                            /oooooo-                    :hhhhhhhhhhhhhhhhhhhh+
-yhhhhhhhhhhhhhhhhhhh/                            -oooooo/                      /hhhhhhhhhhhhhhhhhhhy
-yhhhhhhhhhhhhhhhhhh/                            .oooooo+`                       :hhhhhhhhhhhhhhhhhhy
-:hhhhhhhhhhhhhhhhy.                            `+oooooo.                         .shhhhhhhhhhhhhhhh:
- /hhhhhhhhhhhhhy:                              /oooooo-                            :yhhhhhhhhhhhhh/ 
-  -hhhhhhhhhhy:                               :oooooo/                               :yhhhhhhhhhy-  
- :yhhhhhhhhhhhh+.                            .oooooo+`                             -ohhhhhhhhhhhhy- 
-:hhhhhhhhhhhhhhhh+`                         `+oooooo.                            `ohhhhhhhhhhhhhhhh-
-yhhhhhhhhhhhhhhhhhy-                        /oooooo-                            :yhhhhhhhhhhhhhhhhho
-hhhhhhhhhhhhhhhhhhhh-                      :oooooo/                            :hhhhhhhhhhhhhhhhhhhy
-shhhhhhhhhhhhhhhhhhhy.                    .oooooo+`                           -hhhhhhhhhhhhhhhhhhhh+
-.hhhhhhhhhhhhhhhhhhhho`                  `+oooooo.                           `shhhhhhhhhhhhhhhhhhhy`
- :yhhhhhhhhhhhhhhhhhhh-                  /oooooo-                            :hhhhhhhhhhhhhhhhhhhy- 
-  -shhhhhhhhhhhhhhhhhh/                 :oooooo:                             +hhhhhhhhhhhhhhhhhho.  
-   `/yhhhhhhhhhhhhhhhh+                .oooooo+`                             ohhhhhhhhhhhhhhhhy:`   
-     .+hhhhhhhhhhhhhhh/               `+oooooo.                              ohhhhhhhhhhhhhhy/`     
-       -yhhhhhhhhhhhhh-               /oooooo-                               :hhhhhhhhhhhhhy.       
-        -hhhhhhhhhhhho`              :oooooo/                                `shhhhhhhhhhhh.        
-         shhhhhhhhhhy.              .oooooo+`                                 -hhhhhhhhhhh+         
-         /hhhhhhhhhy-              `+oooooo.                                   :hhhhhhhhhh:         
-         +hhhhhhhhs.               /oooooo-                                     -shhhhhhhh/         
-        `hhhhhhhy:`               :oooooo:                                       `/yhhhhhhy`        
-       .shhhhyo:`                .oooooo+`                                         `:oyhhhhs.       
-     ./syso/-`                  `+ooooo+.                                             `-/osys/`     
-     ````                      `/oooooo-                                                   ````     
-                               :oooooo:                                                             
-                              `-------                                                              
-```
+# Como usar BAF.FI?
+
+BAF.FI es un sistema de deteccion de copias en archivos de codigo fuente, que realiza comparaciones entre grupos de archivos y muestra informacion sobre las mismas.
+
+## Tareas
+
+Una tarea es simplemente una forma de agrupar archivos para crear comparaciones entre ellos de manera mas sencilla. Para crearla, se deben agrupar todos los archivos en un directorio y cargar el directorio al crear la tarea. La estructura de carpetas del directorio se utiliza de la siguiente manera:
+
+- Todos los archivos que esten en cada subdirectorio directo del directorio principal no se compararan entre ellos.
+
+- Se compararan todos los archivos de cada subdirectorio con los de los demas subdirectorios, sin importar la estructura de carpetas dentro de los mismos.
