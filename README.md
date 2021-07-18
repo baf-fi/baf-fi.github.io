@@ -81,5 +81,8 @@ En la primer versión de BAFFI solamente se pueden detectar plagios entre archiv
 ## 🕵️ Si una comparación detecta similaridades entre dos archivos de alumnos, quiere decir que se copiaron?
 BAFFI no es prueba de que exista plagio, es una herramienta de apoyo para el docente y siempre se debe confiar en su cirterio para tomar cualquier decisión.
 
+## ⛔ Estoy teniendo problemas al logearme, que puede ser?
+En algunos casos Heroku cancela algunos request dado que no estamos en la versión paga, por lo que si se observan algunos problemas por favor intente nuevamente. Próximamente planeamos deployar una instancia de BAFFI en Google Cloud para evitar este tipo de inconvenientes.
+
 ## 🔃 Esta es la versión final de BAFFI?
 BAFFI se encuentra en sus etapas finales de desarrollo, por lo que algunas features, experiencias o la infraestructura donde se encuentra alojado pueden cambiar.
