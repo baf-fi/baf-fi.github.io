@@ -71,4 +71,4 @@ En todos los casos, al realizar una comparacion se puede ver una lista de las si
 BAFFI no es prueba de que exista plagio, es una herramienta de apoyo para el docente y siempre se debe confiar en su cirterio para tomar cualquier decisión.
 
 ## 🔃 Esta es la versión final de BAFFI?
-BAFFI sigue en su etapa de desarrollo, por lo que algunas features, experiencias o la infraestructura donde se encuentra alojado pueden cambiar.
+BAFFI se encuentra en sus etapas finales de desarrollo, por lo que algunas features, experiencias o la infraestructura donde se encuentra alojado pueden cambiar.
