@@ -67,6 +67,17 @@ En todos los casos, al realizar una comparacion se puede ver una lista de las si
 
 # FAQ
 
+## 💾 Si cierro BAFFI pierdo todas mis tareas y comparaciones?
+Los usuarios de BAFFI pueden usar nuestra herramienta de dos formas:
+- Como invitado: Las tareas y comparaciones creadas son efímeras y durarán hasta que se venza la sesión
+- Ingresando con Google (sólo cuentas `@fi.uba.ar`): Las tareas y comparaciones quedan guardadas bajo tu nombre y siempre disponibles para que las vuelvas a consultar.
+
+## 🔗 Si necesito compartir una comparación con otra persona como puedo hacer?
+En el caso de querer compartir una comparación solamente se necesita pasar la URL de la página de la misma a la persona que queremos mostrarles los resultados de una comparación en particular.
+
+## 💻 En que lenguajes de programación puedo detectar plagios con BAFFI?
+En la primer versión de BAFFI solamente se pueden detectar plagios entre archivos Python (.py) o C (.c)
+
 ## 🕵️ Si una comparación detecta similaridades entre dos archivos de alumnos, quiere decir que se copiaron?
 BAFFI no es prueba de que exista plagio, es una herramienta de apoyo para el docente y siempre se debe confiar en su cirterio para tomar cualquier decisión.
 
