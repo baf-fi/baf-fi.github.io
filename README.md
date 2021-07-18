@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/15006935/126084461-ae0c626d-66b4-4d08-b699-e6dd1c2ccd51.png)
 
 
-# Como usar BAF.FI?
+# ¿Qué es BAF.FI?
 
 BAF.FI es un sistema de deteccion de copias en archivos de codigo fuente, que realiza comparaciones entre grupos de archivos y muestra informacion sobre las mismas.
 
@@ -63,3 +63,7 @@ Se comparan dos grupos de archivos (cada grupo puede tener entre cualquier canti
 Se puede comparar un snippet de codigo contra una tarea o contra un grupo de archivos. En cualquier caso, se comparara el snippet con todos los archivos pertenecientes a la tarea o al grupo. 
 
 En todos los casos, al realizar una comparacion se puede ver una lista de las similaridades encontradas entre cada uno de los archivos comparados. No se mostraran resultados con un 0% de similaridad. Ademas, se puede ver un grafo donde cada nodo representa un archivo de la comparacion y la distancia entre ellos es inversamente proporcional a la similaridad encontrada. Seleccionando una arista del grafo se puede ver la comparacion que le dio origen.
+
+----------
+
+⚠️ BAFFI no es prueba de que exista plagio, siempre se debe confiar en el criterio del docente y está enfocado a ser una herramienta de apoyo para el mismo ⚠️
