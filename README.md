@@ -1,3 +1,6 @@
+![logo](https://user-images.githubusercontent.com/15006935/126084461-ae0c626d-66b4-4d08-b699-e6dd1c2ccd51.png)
+
+
 # Como usar BAF.FI?
 
 BAF.FI es un sistema de deteccion de copias en archivos de codigo fuente, que realiza comparaciones entre grupos de archivos y muestra informacion sobre las mismas.
