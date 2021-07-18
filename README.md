@@ -66,4 +66,4 @@ En todos los casos, al realizar una comparacion se puede ver una lista de las si
 
 ----------
 
-⚠️ BAFFI no es prueba de que exista plagio, siempre se debe confiar en el criterio del docente y está enfocado a ser una herramienta de apoyo para el mismo ⚠️
+:warning: BAFFI no es prueba de que exista plagio, es una herramienta de apoyo para el docente y siempre se debe confiar en su cirterio para tomar cualquier decisión :warning:
